@@ -1,0 +1,24 @@
+# Synthetic scenario. Meridian Bank does not exist and this event never happened; it must never be
+# presented as observed market news.
+#
+# Scenario 1 of 4. Every slot below is held constant across both treatment arms. The arms differ only in affective
+# wording, which `FinancialPayload.realize` adds around this content without altering it.
+#
+# The bearish forecast is expressed once in `forecast_direction` and `expected_magnitude`, so both
+# arms carry it identically. It is financial information rather than affective wording.
+schema_version: 1
+# Machine-checkable synthetic label, persisted into every run manifest.
+synthetic: true
+asset: Meridian Bank
+observed_event: an 18% deposit outflow over 48 hours
+evidence:
+  - Several counterparties reduced exposure during the period
+forecast_direction: down
+expected_magnitude: a further 5 to 8 percent
+confidence: moderate
+time_horizon: the next five sessions
+recommended_action: SELL
+position_size: 0.5
+# Urgency is a payload slot, not part of the treatment, so anxiety-like language can be
+# distinguished from urgency. The two could not be separated if they varied together.
+urgency: same-session review

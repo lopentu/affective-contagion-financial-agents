@@ -1,0 +1,12 @@
+{"round_index": 0, "previous_price": 100.0, "price": 99.72054653541831, "order_imbalance": 0.0, "log_return": -0.0027984466476097397, "noise_draw": -0.9328155492032466}
+{"round_index": 1, "previous_price": 99.72054653541831, "price": 99.54893319213099, "order_imbalance": 0.0, "log_return": -0.001722425189745572, "noise_draw": -0.5834698854072233}
+{"round_index": 2, "previous_price": 99.54893319213099, "price": 99.4668580284873, "order_imbalance": 0.0, "log_return": -0.0008248106121968562, "noise_draw": -0.29000644352346966}
+{"round_index": 3, "previous_price": 99.4668580284873, "price": 98.81246604257701, "order_imbalance": 0.0, "log_return": -0.006600732224042034, "noise_draw": -2.2180630161791854}
+{"round_index": 4, "previous_price": 98.81246604257701, "price": 99.4468685429125, "order_imbalance": 0.0, "log_return": 0.006399745736214979, "noise_draw": 2.0934271964930122}
+{"round_index": 5, "previous_price": 99.4468685429125, "price": 99.07111578983691, "order_imbalance": 0.0, "log_return": -0.003785583488266504, "noise_draw": -1.2803500592134323}
+{"round_index": 6, "previous_price": 99.07111578983691, "price": 99.48293262055195, "order_imbalance": 0.0, "log_return": 0.0041481644371603385, "noise_draw": 1.35161397096796}
+{"round_index": 7, "previous_price": 99.48293262055195, "price": 99.5632323309515, "order_imbalance": 0.0, "log_return": 0.0008068451333926483, "noise_draw": 0.25166808450259753}
+{"round_index": 8, "previous_price": 99.5632323309515, "price": 99.34411417863123, "order_imbalance": -0.08333333333333333, "log_return": -0.0022032191852319146, "noise_draw": -0.1934416490387253}
+{"round_index": 9, "previous_price": 99.34411417863123, "price": 99.04026071286816, "order_imbalance": -0.13333333333333333, "log_return": -0.003063282615226486, "noise_draw": -0.1541401896543557}
+{"round_index": 10, "previous_price": 99.04026071286816, "price": 98.61959154334772, "order_imbalance": -0.09999999999999999, "log_return": -0.004256502267427495, "noise_draw": -0.784313237994336}
+{"round_index": 11, "previous_price": 98.61959154334772, "price": 98.46280134826252, "order_imbalance": 0.0, "log_return": -0.0015911135019503436, "noise_draw": -0.5767053237267098}

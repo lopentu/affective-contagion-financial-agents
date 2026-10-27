@@ -1,0 +1,516 @@
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 6347671199748600696; 111 chars"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 70 chars delivered"}
+{"round_index": 0, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4370; valence 0.6002; coverage 0.889"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 3515173112140620372; 113 chars"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 72 chars delivered"}
+{"round_index": 0, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4983; valence 0.6411; coverage 0.900"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 8926031600585420603; 149 chars"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 108 chars delivered"}
+{"round_index": 0, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4341; valence 0.5073; coverage 0.882"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 1286324001818698467; 132 chars"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 91 chars delivered"}
+{"round_index": 0, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4441; valence 0.5398; coverage 0.857"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 6040476827464588633; 138 chars"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 97 chars delivered"}
+{"round_index": 0, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4534; valence 0.6198; coverage 0.923"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "0 inbound message(s)"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 100.0000; stimulus absent"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 5875327633981865642; 101 chars"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 60 chars delivered"}
+{"round_index": 0, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.5016; valence 0.5644; coverage 0.875"}
+{"round_index": 0, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 100.0000 -> 99.7205; noise -0.9328"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 7763278602376271024; 142 chars"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 101 chars delivered"}
+{"round_index": 1, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4615; valence 0.5933; coverage 0.857"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 1736804757745242559; 158 chars"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 117 chars delivered"}
+{"round_index": 1, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4640; valence 0.5823; coverage 0.875"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 6327549960145959709; 190 chars"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 149 chars delivered"}
+{"round_index": 1, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4617; valence 0.5864; coverage 0.850"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 4375054208225901793; 222 chars"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 181 chars delivered"}
+{"round_index": 1, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4518; valence 0.6020; coverage 0.875"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 6393361129182564843; 152 chars"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 111 chars delivered"}
+{"round_index": 1, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4598; valence 0.5663; coverage 0.933"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.7205; stimulus absent"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 2251056073453870092; 159 chars"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 118 chars delivered"}
+{"round_index": 1, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4649; valence 0.5703; coverage 0.875"}
+{"round_index": 1, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.7205 -> 99.5489; noise -0.5835"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 516226540924295881; 160 chars"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 119 chars delivered"}
+{"round_index": 2, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4531; valence 0.6040; coverage 0.882"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 4077254778446465890; 156 chars"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 115 chars delivered"}
+{"round_index": 2, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4666; valence 0.5807; coverage 0.875"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 2104258067031628310; 197 chars"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 156 chars delivered"}
+{"round_index": 2, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4436; valence 0.6198; coverage 0.905"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 7467019878206919962; 189 chars"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 148 chars delivered"}
+{"round_index": 2, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4658; valence 0.5741; coverage 0.850"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 7220604715728921600; 190 chars"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 149 chars delivered"}
+{"round_index": 2, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4257; valence 0.6031; coverage 0.900"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.5489; stimulus absent"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 77055208862621201; 174 chars"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 135 chars delivered"}
+{"round_index": 2, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4596; valence 0.5877; coverage 0.842"}
+{"round_index": 2, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.5489 -> 99.4669; noise -0.2900"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 8605284903391849764; 153 chars"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 112 chars delivered"}
+{"round_index": 3, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4616; valence 0.5973; coverage 0.875"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 779133487838949750; 153 chars"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 112 chars delivered"}
+{"round_index": 3, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4605; valence 0.5978; coverage 0.867"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 2784102793504685980; 163 chars"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 122 chars delivered"}
+{"round_index": 3, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4589; valence 0.5655; coverage 0.824"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 1708014700913497353; 172 chars"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 131 chars delivered"}
+{"round_index": 3, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4583; valence 0.5727; coverage 0.889"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 1974270233114626729; 189 chars"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 148 chars delivered"}
+{"round_index": 3, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4618; valence 0.6048; coverage 0.900"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.4669; stimulus absent"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 4011692379766921454; 144 chars"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 105 chars delivered"}
+{"round_index": 3, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4418; valence 0.5400; coverage 0.867"}
+{"round_index": 3, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.4669 -> 98.8125; noise -2.2181"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 7469836468170754882; 153 chars"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 112 chars delivered"}
+{"round_index": 4, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4605; valence 0.5978; coverage 0.867"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 1503494352662807541; 140 chars"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 99 chars delivered"}
+{"round_index": 4, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4611; valence 0.5729; coverage 0.857"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 1886490797587218847; 166 chars"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 125 chars delivered"}
+{"round_index": 4, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4611; valence 0.5891; coverage 0.889"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 7385524464079592655; 162 chars"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 121 chars delivered"}
+{"round_index": 4, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4891; valence 0.5779; coverage 0.882"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 7739698613643041301; 176 chars"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 137 chars delivered"}
+{"round_index": 4, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4578; valence 0.5839; coverage 0.895"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 98.8125; stimulus absent"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 3362426310952430555; 144 chars"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 105 chars delivered"}
+{"round_index": 4, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4602; valence 0.5875; coverage 0.867"}
+{"round_index": 4, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 98.8125 -> 99.4469; noise +2.0934"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 1095652426245480642; 146 chars"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 105 chars delivered"}
+{"round_index": 5, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4602; valence 0.5875; coverage 0.867"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 5800875239969729881; 159 chars"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 118 chars delivered"}
+{"round_index": 5, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4681; valence 0.6004; coverage 0.875"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 4275412071384748990; 188 chars"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 147 chars delivered"}
+{"round_index": 5, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4666; valence 0.5999; coverage 0.900"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 8244910960726062906; 170 chars"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 129 chars delivered"}
+{"round_index": 5, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4642; valence 0.6039; coverage 0.889"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 7682788052804693736; 173 chars"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 132 chars delivered"}
+{"round_index": 5, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4613; valence 0.5974; coverage 0.889"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.4469; stimulus absent"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 7848688827409642844; 149 chars"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 108 chars delivered"}
+{"round_index": 5, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4656; valence 0.5697; coverage 0.867"}
+{"round_index": 5, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.4469 -> 99.0711; noise -1.2804"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 5851319493346672350; 150 chars"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 109 chars delivered"}
+{"round_index": 6, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4641; valence 0.6058; coverage 0.867"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 4755068649992451621; 166 chars"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 125 chars delivered"}
+{"round_index": 6, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4611; valence 0.5891; coverage 0.889"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 5921530723070943032; 166 chars"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 125 chars delivered"}
+{"round_index": 6, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4611; valence 0.5891; coverage 0.889"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 5473800692003614386; 142 chars"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 101 chars delivered"}
+{"round_index": 6, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4608; valence 0.6203; coverage 0.929"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 1534796266509373733; 164 chars"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 125 chars delivered"}
+{"round_index": 6, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4611; valence 0.5891; coverage 0.889"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.0711; stimulus absent"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 6646891722037126022; 144 chars"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 105 chars delivered"}
+{"round_index": 6, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4602; valence 0.5875; coverage 0.867"}
+{"round_index": 6, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.0711 -> 99.4829; noise +1.3516"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 8731495430542307320; 148 chars"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 107 chars delivered"}
+{"round_index": 7, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4501; valence 0.5948; coverage 0.867"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 5714137142648620698; 150 chars"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 109 chars delivered"}
+{"round_index": 7, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4641; valence 0.6058; coverage 0.867"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 7178654974167766260; 170 chars"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 129 chars delivered"}
+{"round_index": 7, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4642; valence 0.6039; coverage 0.889"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 6679515682054226820; 170 chars"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 129 chars delivered"}
+{"round_index": 7, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4642; valence 0.6039; coverage 0.889"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 4595324300806752506; 170 chars"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 129 chars delivered"}
+{"round_index": 7, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4642; valence 0.6039; coverage 0.889"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.4829; stimulus absent"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 2848677728661695599; 150 chars"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 109 chars delivered"}
+{"round_index": 7, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4641; valence 0.6058; coverage 0.867"}
+{"round_index": 7, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 99.4829 -> 99.5632; noise +0.2517"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.5632; stimulus PRESENT (treated role)"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 6071645816505829541; 173 chars"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "SELL size 0.50"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled -0.500; position +0.00 -> -0.50"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "injected_message: 404 chars delivered"}
+{"round_index": 8, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4763; valence 0.5411; coverage 1.000"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.5632; stimulus absent"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 6474719516737625081; 159 chars"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 118 chars delivered"}
+{"round_index": 8, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4483; valence 0.5993; coverage 0.882"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.5632; stimulus absent"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 3895764171857802340; 170 chars"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 129 chars delivered"}
+{"round_index": 8, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4642; valence 0.6039; coverage 0.889"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.5632; stimulus absent"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 5348391748581120154; 168 chars"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 127 chars delivered"}
+{"round_index": 8, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4528; valence 0.5951; coverage 0.889"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.5632; stimulus absent"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 7816569904616379699; 163 chars"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 122 chars delivered"}
+{"round_index": 8, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4393; valence 0.5875; coverage 0.882"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.5632; stimulus absent"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 5441026446732567826; 143 chars"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 104 chars delivered"}
+{"round_index": 8, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4585; valence 0.5809; coverage 0.867"}
+{"round_index": 8, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance -0.0833; price 99.5632 -> 99.3441; noise -0.1934"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 3927037555277915427; 152 chars"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.50 -> -0.50"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 111 chars delivered"}
+{"round_index": 9, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4473; valence 0.5829; coverage 0.875"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 7931347113659213612; 177 chars"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 136 chars delivered"}
+{"round_index": 9, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4750; valence 0.5535; coverage 0.950"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 6037728305344519940; 201 chars"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 160 chars delivered"}
+{"round_index": 9, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4544; valence 0.5562; coverage 0.870"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 8646938733757263318; 223 chars"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "SELL size 0.30"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled -0.300; position +0.00 -> -0.30"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 182 chars delivered"}
+{"round_index": 9, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.5196; valence 0.5372; coverage 1.000"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 9126246336449307988; 118 chars"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "SELL size 0.50"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled -0.500; position +0.00 -> -0.50"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 77 chars delivered"}
+{"round_index": 9, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4884; valence 0.5730; coverage 1.000"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.3441; stimulus absent"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 9043047622573453561; 188 chars"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.00"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 149 chars delivered"}
+{"round_index": 9, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4482; valence 0.5263; coverage 0.870"}
+{"round_index": 9, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance -0.1333; price 99.3441 -> 99.0403; noise -0.1541"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 5676609225120459673; 176 chars"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.50 -> -0.50"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 135 chars delivered"}
+{"round_index": 10, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4502; valence 0.5471; coverage 0.947"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 8835968675421756351; 187 chars"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 146 chars delivered"}
+{"round_index": 10, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4636; valence 0.5624; coverage 0.905"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 5969326447772298113; 205 chars"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 164 chars delivered"}
+{"round_index": 10, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4842; valence 0.5572; coverage 1.000"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 955140961578390424; 172 chars"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.30 -> -0.30"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 131 chars delivered"}
+{"round_index": 10, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4390; valence 0.5360; coverage 0.882"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 1796649101539114407; 163 chars"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.50 -> -0.50"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 122 chars delivered"}
+{"round_index": 10, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.3973; valence 0.5621; coverage 0.941"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 99.0403; stimulus absent"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 8757016021627016649; 186 chars"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "SELL size 0.60"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled -0.600; position +0.00 -> -0.60"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 145 chars delivered"}
+{"round_index": 10, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.5051; valence 0.5182; coverage 1.000"}
+{"round_index": 10, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance -0.1000; price 99.0403 -> 98.6196; noise -0.7843"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from fundamental_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "generator.generate", "detail": "seed 6713155132711220974; 173 chars"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.50 -> -0.50"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "intervention.apply", "detail": "identity: 132 chars delivered"}
+{"round_index": 11, "agent_index": 0, "role": "sentiment_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4653; valence 0.5455; coverage 1.000"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, bull_researcher, bear_researcher, trader, risk_manager"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "generator.generate", "detail": "seed 6837404058306951161; 186 chars"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "intervention.apply", "detail": "identity: 145 chars delivered"}
+{"round_index": 11, "agent_index": 1, "role": "fundamental_analyst", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4437; valence 0.5140; coverage 1.000"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bear_researcher, trader, risk_manager"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "generator.generate", "detail": "seed 7182754597573973556; 196 chars"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position +0.00 -> +0.00"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "intervention.apply", "detail": "identity: 155 chars delivered"}
+{"round_index": 11, "agent_index": 2, "role": "bull_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.5248; valence 0.5274; coverage 1.000"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, trader, risk_manager"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "generator.generate", "detail": "seed 3044017418122850779; 197 chars"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.30 -> -0.30"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "intervention.apply", "detail": "identity: 156 chars delivered"}
+{"round_index": 11, "agent_index": 3, "role": "bear_researcher", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.5436; valence 0.5575; coverage 1.000"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, risk_manager"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "generator.generate", "detail": "seed 4813499507015537106; 180 chars"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.50 -> -0.50"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "intervention.apply", "detail": "identity: 139 chars delivered"}
+{"round_index": 11, "agent_index": 4, "role": "trader", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4598; valence 0.5681; coverage 1.000"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "topology.inbound_neighbors", "detail": "5 inbound message(s) from sentiment_analyst, fundamental_analyst, bull_researcher, bear_researcher, trader"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "GenerationContext", "detail": "price 98.6196; stimulus absent"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "generator.generate", "detail": "seed 4570258188708556972; 163 chars"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "messages.parse_agent_decision", "detail": "HOLD size 0.50"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "simulation._fill_within_position_limit", "detail": "filled +0.000; position -0.60 -> -0.60"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "intervention.apply", "detail": "identity: 122 chars delivered"}
+{"round_index": 11, "agent_index": 5, "role": "risk_manager", "stage": "text_affect.VADLexicon.score", "detail": "arousal 0.4404; valence 0.5374; coverage 0.875"}
+{"round_index": 11, "agent_index": null, "role": null, "stage": "market.SimpleMarket.clear", "detail": "imbalance +0.0000; price 98.6196 -> 98.4628; noise -0.5767"}

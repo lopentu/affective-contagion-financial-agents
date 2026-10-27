@@ -1,0 +1,20 @@
+{
+  "schema_version": 2,
+  "kind": "complete_synthetic_runs",
+  "name": "e51-injected-rerun",
+  "runs": {
+    "file": "e51-injected-rerun-runs.jsonl.gz",
+    "sha256": "a1383baae90a34199189f8256d946e05d7d4eb203cf0263582b31af48ecabe3c",
+    "rows": 288
+  },
+  "models": [
+    {
+      "repository": "Qwen/Qwen3-4B-Instruct-2507",
+      "revision": "cdbee75f17c01a7cc42f958dc650907174af0554"
+    }
+  ],
+  "exported_at_commit": "e9c8a776e02ecaa30ad89ddb12453ddcf3fffeb1",
+  "exported_from_dirty_tree": false,
+  "synthetic": true,
+  "transformation": "JSON reserialized with sorted keys; cached message_affect and stimulus_arousal_delta set to null to exclude lexicon-derived scores; raw text and other source fields retained; original source file hashes recorded per run"
+}

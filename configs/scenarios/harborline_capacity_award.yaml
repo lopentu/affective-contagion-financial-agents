@@ -1,0 +1,26 @@
+# Synthetic scenario. Harborline Logistics does not exist and this event never happened; it must
+# never be presented as observed market news.
+#
+# Scenario 2 of 4. Variation dimension: **event polarity**.
+#
+# Here the facts are *good* and the recommendation is BUY. If anxiety-like wording transmits arousal
+# in this scenario, the effect cannot be a reaction to bad news, so an ordinary response to adverse
+# information cannot explain it.
+#
+# This works because `FinancialPayload.realize` keeps both closings strictly self-referential:
+# "I am alarmed, anxious and frightened..." describes the speaker, not the event, so it carries no
+# implied direction and does not contradict an upside forecast.
+schema_version: 1
+synthetic: true
+asset: Harborline Logistics
+observed_event: a multi-year capacity award covering 22% of fleet hours
+evidence:
+  - The counterparty confirmed the award in a filing during the period
+forecast_direction: up
+expected_magnitude: a further 5 to 8 percent
+confidence: moderate
+time_horizon: the next five sessions
+recommended_action: BUY
+position_size: 0.5
+# Held identical to scenario 1. Urgency is a payload slot, never part of the treatment.
+urgency: same-session review

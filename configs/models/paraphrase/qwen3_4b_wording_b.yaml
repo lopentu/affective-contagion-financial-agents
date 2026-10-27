@@ -1,0 +1,34 @@
+# PR25 wording B: the same five reader roles, paraphrased. Semantic content is preserved and the
+# surface wording changed. The model block and the sender's prompt are byte-identical to
+# configs/models/ladder/qwen3_4b.yaml; only the five reader system prompts differ.
+schema_version: 1
+models:
+- key: qwen3-4b
+  repository: Qwen/Qwen3-4B-Instruct-2507
+  revision: cdbee75f17c01a7cc42f958dc650907174af0554
+  activation_layer: null
+  dtype: bfloat16
+  device_map: auto
+  quantization: none
+  max_new_tokens: 256
+  temperature: 0.7
+  constrained_decision_format: true
+agents:
+- role: sentiment_analyst
+  model_key: qwen3-4b
+  system_prompt: Assess market mood while distinguishing rhetoric from financial evidence.
+- role: fundamental_analyst
+  model_key: qwen3-4b
+  system_prompt: Ground your view in the reported figures, the company's valuation, and what it is fairly worth.
+- role: bull_researcher
+  model_key: qwen3-4b
+  system_prompt: Find the genuine case for upside, and the arguments against it.
+- role: bear_researcher
+  model_key: qwen3-4b
+  system_prompt: Find the genuine case for downside, and the arguments against it.
+- role: trader
+  model_key: qwen3-4b
+  system_prompt: Draw on the team's evidence to pick a trade with limited size.
+- role: risk_manager
+  model_key: qwen3-4b
+  system_prompt: Judge exposure and tail risk; do not let tone stand in for probability.

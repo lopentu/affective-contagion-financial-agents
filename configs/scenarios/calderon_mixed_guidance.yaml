@@ -1,0 +1,31 @@
+# Synthetic scenario. Calderon Instruments does not exist and this event never happened; it must
+# never be presented as observed market news.
+#
+# Scenario 3 of 4. Variation dimension: **evidence ambiguity**.
+#
+# The event's reading is two-sided, confidence is limited, and the recommended action is HOLD at
+# zero size. Affective framing may matter *more* where the facts underdetermine the decision; an
+# effect that is constant across ambiguity is informative about the mechanism.
+#
+# With `recommended_action: HOLD` and `position_size: 0.00`, any action difference between arms is a
+# departure from an explicitly recommended no-op, which is a cleaner action outcome than scenario 1
+# offers.
+#
+# `confidence` reads "limited" and not "low" for a mechanical reason. The residue gate does a
+# substring match, and "low" is inside "follows" in the shared frame "My assessment follows.", so a
+# one-syllable slot value fails the gate on a coincidence. Short slot values carry the same risk
+# everywhere. The gate errs safely, rejecting a valid scenario rather than passing an invalid one.
+schema_version: 1
+synthetic: true
+asset: Calderon Instruments
+observed_event: a 12% order-book decline alongside a 9% rise in average selling price
+evidence:
+  - Two segments moved in opposite directions during the period
+  - Management withdrew the quarterly range without restating the annual one
+forecast_direction: uncertain
+expected_magnitude: within 2 percent in either direction
+confidence: limited
+time_horizon: the next five sessions
+recommended_action: HOLD
+position_size: 0.00
+urgency: same-session review

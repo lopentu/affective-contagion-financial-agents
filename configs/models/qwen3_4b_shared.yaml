@@ -1,0 +1,32 @@
+# The primary model, Qwen3-4B-Instruct-2507 at a pinned revision, shared by all six agents.
+schema_version: 1
+models:
+- key: qwen3-4b
+  repository: Qwen/Qwen3-4B-Instruct-2507
+  revision: cdbee75f17c01a7cc42f958dc650907174af0554
+  activation_layer: null
+  dtype: bfloat16
+  device_map: auto
+  quantization: none
+  max_new_tokens: 256
+  temperature: 0.7
+  constrained_decision_format: true
+agents:
+- role: sentiment_analyst
+  model_key: qwen3-4b
+  system_prompt: Assess market mood while distinguishing rhetoric from financial evidence.
+- role: fundamental_analyst
+  model_key: qwen3-4b
+  system_prompt: Focus on reported evidence, valuation, and fair value.
+- role: bull_researcher
+  model_key: qwen3-4b
+  system_prompt: Identify honest upside evidence and counterarguments.
+- role: bear_researcher
+  model_key: qwen3-4b
+  system_prompt: Identify honest downside evidence and counterarguments.
+- role: trader
+  model_key: qwen3-4b
+  system_prompt: Use the team's evidence to choose a bounded trade.
+- role: risk_manager
+  model_key: qwen3-4b
+  system_prompt: Evaluate exposure and tail risk without confusing rhetoric with probability.

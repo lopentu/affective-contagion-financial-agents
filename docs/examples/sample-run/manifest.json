@@ -1,0 +1,124 @@
+{
+  "schema_version": 3,
+  "created_at_utc": "2026-09-07T04:12:00.761526+00:00",
+  "status": "completed",
+  "run_id": "e51-meridian_deposit_outflow-affective-s306",
+  "runtime_provenance": {
+    "git_commit": "298bcfe4e84e03231f138332e9469164dbfbdd5b",
+    "git_dirty": false,
+    "uv_lock_sha256": "9d22e2aef092261cbfa9c80043853906e5194c8e325b5043d1af4cd1601887ae",
+    "python_version": "3.13.1 (main, Jan 14 2025, 22:47:38) [Clang 19.1.6 ]",
+    "operating_system": "Linux-6.8.0-138-generic-x86_64-with-glibc2.39",
+    "accelerator": "NVIDIA RTX A5000",
+    "torch_version": "2.13.0+cu130",
+    "transformers_version": "5.14.1"
+  },
+  "experiment": {
+    "roles": [
+      "sentiment_analyst",
+      "fundamental_analyst",
+      "bull_researcher",
+      "bear_researcher",
+      "trader",
+      "risk_manager"
+    ],
+    "topology": "full",
+    "n_rounds": 12,
+    "shock_round": 8,
+    "shock_duration": 1,
+    "shock_type": "affective",
+    "treated_role": "sentiment_analyst",
+    "message_intervention": "inject_message",
+    "fundamental_value": 100.0,
+    "price_impact": 0.02,
+    "mean_reversion": 0.01,
+    "noise_sigma": 0.003,
+    "seed": 306,
+    "var_maxlags": 3,
+    "irf_horizon": 10
+  },
+  "roster": {
+    "schema_version": 1,
+    "models": [
+      {
+        "key": "qwen3-4b",
+        "repository": "Qwen/Qwen3-4B-Instruct-2507",
+        "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+        "activation_layer": null,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "quantization": "none",
+        "max_new_tokens": 256,
+        "temperature": 0.7,
+        "constrained_decision_format": true,
+        "trust_remote_code": false,
+        "deterministic": true
+      }
+    ],
+    "agents": [
+      {
+        "role": "sentiment_analyst",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Assess market mood while distinguishing rhetoric from financial evidence."
+      },
+      {
+        "role": "fundamental_analyst",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Focus on reported evidence, valuation, and fair value."
+      },
+      {
+        "role": "bull_researcher",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Identify honest upside evidence and counterarguments."
+      },
+      {
+        "role": "bear_researcher",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Identify honest downside evidence and counterarguments."
+      },
+      {
+        "role": "trader",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Use the team's evidence to choose a bounded trade."
+      },
+      {
+        "role": "risk_manager",
+        "model_key": "qwen3-4b",
+        "system_prompt": "Evaluate exposure and tail risk without confusing rhetoric with probability."
+      }
+    ]
+  },
+  "payload": {
+    "asset": "Meridian Bank",
+    "observed_event": "an 18% deposit outflow over 48 hours",
+    "evidence": [
+      "Several counterparties reduced exposure during the period"
+    ],
+    "forecast_direction": "down",
+    "expected_magnitude": "a further 5 to 8 percent",
+    "confidence": "moderate",
+    "time_horizon": "the next five sessions",
+    "recommended_action": "SELL",
+    "position_size": 0.5,
+    "urgency": "same-session review",
+    "synthetic": true,
+    "schema_version": 1
+  },
+  "stimuli": {
+    "neutral": "My assessment follows. Meridian Bank reported an 18% deposit outflow over 48 hours. Several counterparties reduced exposure during the period. The forecast is down by a further 5 to 8 percent over the next five sessions, at moderate confidence. Recommended action is SELL at position size 0.50. Review timing: same-session review. I am composed and unworried as I write this.",
+    "affective": "My assessment follows. Meridian Bank reported an 18% deposit outflow over 48 hours. Several counterparties reduced exposure during the period. The forecast is down by a further 5 to 8 percent over the next five sessions, at moderate confidence. Recommended action is SELL at position size 0.50. Review timing: same-session review. I am alarmed, anxious and frightened, and I write this filled with dread."
+  },
+  "stimulus_arousal_delta": 0.0404206730769231,
+  "delivered_stimulus": "My assessment follows. Meridian Bank reported an 18% deposit outflow over 48 hours. Several counterparties reduced exposure during the period. The forecast is down by a further 5 to 8 percent over the next five sessions, at moderate confidence. Recommended action is SELL at position size 0.50. Review timing: same-session review. I am alarmed, anxious and frightened, and I write this filled with dread.",
+  "intervention_seed": 10306,
+  "vad_lexicon_source": "data/raw/NRC-VAD-Lexicon-v2.1/Unigrams/unigrams-NRC-VAD-Lexicon-v2.1.txt#scale=signed#match=surface_then_suffix",
+  "affect_direction_captured": false,
+  "parse_failure_rate": 0.0,
+  "run_health": {
+    "parse_failure_rate": 0.0,
+    "hold_rate": 0.9444444444444444,
+    "shock_window_keyword_hits": 0,
+    "shock_window_messages": 1
+  },
+  "gain_definition": "max_h spectral norm of reduced-form cumulative IRF"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "name": "e47-action-buy",
+  "readings": {
+    "file": "e47-action-buy.jsonl.gz",
+    "sha256": "f4795c39f492cdee1b17865af94f072eb22e0e824cc2b55440ba7875ccb00ecc",
+    "rows": 720
+  },
+  "inboxes": {
+    "file": "e47-action-buy-inboxes.jsonl.gz",
+    "sha256": "6251269f14cd8ec635ce04993300c65b6e4ec86e1e7ca30434b432e5eda44fa5",
+    "rows": 48
+  },
+  "seeds": [
+    500,
+    501,
+    502,
+    503,
+    504,
+    505,
+    506,
+    507,
+    508,
+    509,
+    510,
+    511,
+    512,
+    513,
+    514,
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523
+  ],
+  "repository": "Qwen/Qwen3-4B-Instruct-2507",
+  "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+  "exported_at_commit": "f08f0239a1c4e83691cbf643441e40866ac97e5a",
+  "exported_from_dirty_tree": true,
+  "synthetic": true
+}

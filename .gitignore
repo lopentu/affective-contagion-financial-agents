@@ -1,0 +1,23 @@
+.coverage
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ty_cache/
+.venv/
+__pycache__/
+*.egg-info/
+*.py[cod]
+
+# Experiment artifacts can be large and may contain licensed inputs.
+outputs/
+runs/
+
+# Local model and data caches. The NRC VAD lexicon goes under data/raw/ and is never committed.
+.cache/
+data/raw/
+data/interim/
+
+# Generated replay pages; regenerate with scripts/replay_run.py.
+/replay*.html
+
+.vscode/

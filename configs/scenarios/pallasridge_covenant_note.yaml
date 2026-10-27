@@ -1,0 +1,23 @@
+# Synthetic scenario. Pallasridge Water does not exist and this event never happened; it must never
+# be presented as observed market news.
+#
+# Scenario 4 of 4. Variation dimensions: **forecast magnitude** and **time horizon**, moved
+# together. Both reduce the stakes of the decision, and a full crossing would need eight scenarios
+# rather than four. This scenario compares low stakes and a distant horizon against scenario 1's
+# higher stakes and near horizon, and cannot separate the two dimensions from each other.
+#
+# If affective transmission is undiminished when almost nothing is at stake, that argues the effect
+# is wording rather than a response to consequence.
+schema_version: 1
+synthetic: true
+asset: Pallasridge Water
+observed_event: a covenant headroom note reducing available capacity by 3%
+evidence:
+  - The lender restated the existing schedule without amending its terms
+forecast_direction: down
+expected_magnitude: a further 0.5 to 1 percent
+confidence: moderate
+time_horizon: the next two quarters
+recommended_action: SELL
+position_size: 0.10
+urgency: same-session review
